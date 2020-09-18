@@ -1,0 +1,22 @@
+{
+  "name": "ergeng-video",
+  "version": "0.0.1",
+  "description": "A video player plugin with native experience on mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE92star/ergeng-video.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE92star/ergeng-video/issues"
+  },
+  "homepage": "https://github.com/FE92star/ergeng-video#readme"
+}
