@@ -13,10 +13,13 @@
   "keywords": [
     "video"
   ],
-  "author": "Bob",
+  "author": "Bob <1737765939@qq.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FE92star/ergeng-video/issues"
   },
-  "homepage": "https://github.com/FE92star/ergeng-video#readme"
+  "homepage": "https://github.com/FE92star/ergeng-video#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
