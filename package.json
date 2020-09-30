@@ -1,9 +1,11 @@
 {
   "name": "ergeng-video",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "A video player plugin with native experience on mobile",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "./lib/index.d.ts",
   "scripts": {
+    "start": "tsc --p tsconfig.json --watch",
     "test": "node ./test.js"
   },
   "repository": {
@@ -13,7 +15,7 @@
   "keywords": [
     "video"
   ],
-  "author": "Bob <1737765939@qq.com>",
+  "author": "Bob <17681879658@163.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FE92star/ergeng-video/issues"
